@@ -2,7 +2,7 @@ Here’s the **EAS CLI Inquiries** document in full detail:
 
 ---
 
-**Filename:** `EAS_CLI_Inquiries.md`
+**Filename:** `topic/expo/EAS_CLI_Inquiries.md`
 
 ---
 

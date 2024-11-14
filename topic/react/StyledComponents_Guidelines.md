@@ -1,8 +1,7 @@
-Here’s the **Styled Components in React Native** document in full detail:
 
 ---
 
-**Filename:** `Styled_Components_in_React_Native.md`
+**Filename:** `topic/react/Styled_Components_in_React_Native.md`
 
 ---
 
